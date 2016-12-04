@@ -1,0 +1,16 @@
+<MOVIES_DETAILS>
+ <MOVIE>
+        <name>Titanic</name>
+        <release>November 18, 1997</release>
+        <country>United Kingdom</country>
+        <poster href="http://cosmouk.cdnds.net/14/41/1600x800/nrm_1412870297-titanic-still.jpg" width= "215" height="315"></poster>
+   </MOVIE>
+    <MOVIE>
+            <name>Elysium</name>
+            <release>may 19, 1993</release>
+            <country>Taiwan</country>
+            <Price>$4</Price>
+       </MOVIE>
+   
+   
+</MOVIES_DETAILS>
